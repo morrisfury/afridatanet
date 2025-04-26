@@ -1,0 +1,30 @@
+
+{
+  "routes": [
+    {
+      "route": "/",
+      "redirect": "https://afridata.co.za",
+      "statusCode": 301
+    },
+    {
+      "route": "/",
+      "redirect": "https://mydeli.co.za",
+      "statusCode": 301
+    },
+    {
+      "route": "/",
+      "redirect": "https://westcoastdeli.co.za",
+      "statusCode": 301
+    },
+    {
+      "route": "/",
+      "redirect": "https://thefunkyfactory.co.za",
+      "statusCode": 301
+    },
+    {
+      "route": "/",
+      "redirect": "https://yotspot.co.za",
+      "statusCode": 301
+    }
+  ]
+}
